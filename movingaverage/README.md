@@ -2,9 +2,6 @@
 #### Coding Question
 Write an interface for a data structure that can provide the moving average of the last N elements added, add elements to the structure and get access to the elements. Provide an efficient implementation of the interface for the data structure.
 
-#### How to build
-use the given movingaverage package in 
-
 #### Additional Details
 This implementation is storing the last N numbers in an array and using a sliding window approach to calculate average.
 The interface exposes 3 methods
